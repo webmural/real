@@ -1,10 +1,12 @@
 @media (color) {
-  ::selection { background: #010101; color: orangered }
+  ::selection { background: #090909; color: gold }
   .flora :not(.nativa) { color: inherit }
+  .uv.uv { background: darkviolet; color: mediumspringgreen }
   .sol.sol { background: gold; color: #090909 }
-  .luna.luna { background: #090909; color: hotpink }
+  .luna.luna { background: deepskyblue; color: #090909 }
   .jugo.jugo { background: hotpink; color: #090909 }
-  .metal.metal { background: silver; color: #090909 }
+  .metro.metro { background: coral; color: #090909 }
+  .terra.terra { background: mediumspringgreen; color: #090909 }
 }
 
 :link {
@@ -64,7 +66,7 @@
 }
 
 .espejo  {
-  transform: rotate(180deg);
+  transform: rotate(-72deg);
 }
 
 .curva {
