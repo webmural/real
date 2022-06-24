@@ -1,5 +1,5 @@
 @media (color) {
-  ::selection { background: #090909; color: gold }
+  ::selection { background: #090909; color: #090909 }
   .flora :not(.nativa) { color: inherit }
   .uv.uv { background: darkviolet; color: mediumspringgreen }
   .sol.sol { background: gold; color: #090909 }
